@@ -1,0 +1,78 @@
+2026-05-25 01:15:59 | INFO    | __main__             | Stage 1: Image Preparation and PDF Processing
+2026-05-25 01:15:59 | INFO    | __main__             | Input:  d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 01:15:59 | INFO    | __main__             | Output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:15:59 | WARNING | __main__             | No PDF files found in d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 01:15:59 | ERROR   | __main__             | No valid PDF files found to process
+2026-05-25 01:21:57 | INFO    | __main__             | Stage 1: Image Preparation and PDF Processing
+2026-05-25 01:21:57 | INFO    | __main__             | Input:  d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 01:21:57 | INFO    | __main__             | Output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:21:57 | INFO    | __main__             | Found 1 valid PDF(s) in d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 01:21:57 | INFO    | __main__             | Processing 1 PDF(s) → D:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:21:57 | INFO    | __main__             | [1/1] Processing: file2.pdf
+2026-05-25 01:22:06 | INFO    | __main__             |     6 pages | 0 deskewed | 1 with stamps
+2026-05-25 01:22:06 | INFO    | __main__             | ✅ COMPLETED — 1 PDF(s), 6 pages, 1 stamps detected
+2026-05-25 01:23:09 | INFO    | __main__             | Stage 2: OCR and Structure Extraction
+2026-05-25 01:23:09 | INFO    | __main__             | Input:  d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:23:09 | INFO    | __main__             | Output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage2_output
+2026-05-25 01:23:09 | INFO    | __main__             | Processing all documents in: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:23:32 | INFO    | __main__             |   Document : d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs\file2.pdf
+2026-05-25 01:23:32 | INFO    | __main__             |   Pages    : 6
+2026-05-25 01:23:32 | INFO    | __main__             |   Elements : 6
+2026-05-25 01:23:32 | INFO    | __main__             |   Tables   : 0
+2026-05-25 01:23:32 | INFO    | __main__             |   Text     : 238 chars
+2026-05-25 01:23:32 | INFO    | __main__             | Moved source PDF to: d:\Code\CRV2\CHiPStemp\01_preprocessing\used_files\file2.pdf
+2026-05-25 01:23:32 | INFO    | __main__             | Cleaned up Stage 1 output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output\file2
+2026-05-25 01:23:32 | INFO    | __main__             | ✅ COMPLETED — 1 document(s), 6 pages, 0 tables extracted
+2026-05-25 01:26:14 | INFO    | __main__             | Stage 1: Image Preparation and PDF Processing
+2026-05-25 01:26:14 | INFO    | __main__             | Input:  d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 01:26:14 | INFO    | __main__             | Output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:26:14 | INFO    | __main__             | Found 1 valid PDF(s) in d:\Code\CRV2\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 01:26:14 | INFO    | __main__             | Processing 1 PDF(s) → D:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:26:14 | INFO    | __main__             | [1/1] Processing: file2.pdf
+2026-05-25 01:26:23 | INFO    | __main__             |     6 pages | 0 deskewed | 1 with stamps
+2026-05-25 01:26:23 | INFO    | __main__             | ✅ COMPLETED — 1 PDF(s), 6 pages, 1 stamps detected
+2026-05-25 01:26:42 | INFO    | __main__             | Stage 2: OCR and Structure Extraction
+2026-05-25 01:26:42 | INFO    | __main__             | Input:  d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:26:42 | INFO    | __main__             | Output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage2_output
+2026-05-25 01:26:42 | INFO    | __main__             | Processing all documents in: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:26:55 | WARNING | __main__             | Interrupted by user
+2026-05-25 01:50:56 | INFO    | __main__             | Stage 2: OCR and Structure Extraction
+2026-05-25 01:50:56 | INFO    | __main__             | Input:  d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:50:56 | INFO    | __main__             | Output: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage2_output
+2026-05-25 01:50:56 | INFO    | __main__             | Processing all documents in: d:\Code\CRV2\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 01:53:56 | WARNING | __main__             | Interrupted by user
+2026-05-25 12:18:58 | INFO    | __main__             | Stage 1: Image Preparation and PDF Processing
+2026-05-25 12:18:58 | INFO    | __main__             | Input:  d:\Code\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 12:18:58 | INFO    | __main__             | Output: d:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 12:18:58 | INFO    | __main__             | Found 1 valid PDF(s) in d:\Code\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 12:18:58 | INFO    | __main__             | Processing 1 PDF(s) → D:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 12:18:58 | INFO    | __main__             | [1/1] Processing: file2.pdf
+2026-05-25 12:19:01 | WARNING | __main__             | Interrupted by user
+2026-05-25 12:36:10 | INFO    | __main__             | Stage 1: Image Preparation and PDF Processing
+2026-05-25 12:36:10 | INFO    | __main__             | Input:  d:\Code\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 12:36:10 | INFO    | __main__             | Output: d:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 12:36:10 | INFO    | __main__             | Found 1 valid PDF(s) in d:\Code\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 12:36:10 | INFO    | __main__             | Processing 1 PDF(s) → D:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 12:36:10 | INFO    | __main__             | [1/1] Processing: file2.pdf
+2026-05-25 12:36:18 | INFO    | __main__             |     6 pages | 0 deskewed | 1 with stamps
+2026-05-25 12:36:18 | INFO    | __main__             | ✅ COMPLETED — 1 PDF(s), 6 pages, 1 stamps detected
+2026-05-25 12:36:46 | INFO    | __main__             | Stage 2: OCR and Structure Extraction
+2026-05-25 12:36:46 | INFO    | __main__             | Input:  d:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 12:36:46 | INFO    | __main__             | Output: d:\Code\CHiPStemp\01_preprocessing\stage2_output
+2026-05-25 12:36:46 | INFO    | __main__             | Processing all documents in: d:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 12:40:41 | WARNING | __main__             | Interrupted by user
+2026-05-25 13:28:39 | INFO    | __main__             | Stage 1: Image Preparation and PDF Processing
+2026-05-25 13:28:39 | INFO    | __main__             | Input:  d:\Code\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 13:28:39 | INFO    | __main__             | Output: d:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 13:28:39 | INFO    | __main__             | Found 15 valid PDF(s) in d:\Code\CHiPStemp\01_preprocessing\input_pdfs
+2026-05-25 13:28:39 | INFO    | __main__             | Processing 15 PDF(s) → D:\Code\CHiPStemp\01_preprocessing\stage1_output
+2026-05-25 13:28:39 | INFO    | __main__             | [1/15] Processing: 10_शासकीय_व्यय_में_मितव्ययिता_एवं_अनुशासन.pdf
+2026-05-25 13:28:40 | INFO    | __main__             |     2 pages | 0 deskewed | 0 with stamps
+2026-05-25 13:28:40 | INFO    | __main__             | [2/15] Processing: 11_रिक्त_पदों_पर_नियुक्ति_के_संबंध_में.pdf
+2026-05-25 13:28:42 | INFO    | __main__             |     2 pages | 0 deskewed | 0 with stamps
+2026-05-25 13:28:42 | INFO    | __main__             | [3/15] Processing: 12_नया_रायपुर_स्थित_कार्यालयों_हेतु_शासकीय_वाहनों_की_ईंधन_सीमा_का_निर्धारण.pdf
+2026-05-25 13:28:43 | INFO    | __main__             |     2 pages | 1 deskewed | 0 with stamps
+2026-05-25 13:28:43 | INFO    | __main__             | [4/15] Processing: 13_रिक्‍त_पदों_पर_नियुक्ति_के_संबंध_में.pdf
+2026-05-25 13:28:45 | INFO    | __main__             |     2 pages | 2 deskewed | 0 with stamps
+2026-05-25 13:28:45 | INFO    | __main__             | [5/15] Processing: 14_शासकीय_वाहनों_की_पात्रता_एवं_क्रय.pdf
+2026-05-25 13:28:46 | WARNING | __main__             | Interrupted by user

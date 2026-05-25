@@ -1,0 +1,575 @@
+{
+  "source_pdf": "/home/ent/Rag2/FG/01_preprocessing/input_pdfs/35_वर्ष_2003-2004_के_बजट_में_प्रावधानित_राशि_से_15_जनवरी,_2004_के_बाद_क्रय_पर_प्रतिबंद्ध_।.pdf",
+  "total_pages": 3,
+  "total_elements": 48,
+  "total_tables": 0,
+  "total_text_chars": 3181,
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "## Nrhlx<\n\n## lllu\n\n## folr forilx\n\n## Ilel=ky ;Il nIA dY;hzh flg Hioul   jl; ilj&4920010\n\ndeld Q4302020040c410p|] 040 ifr\n\nIlilu d lezr   iolllxl\n\nleLr folkixl/ ;{l]\n\nv/;{Il jktLo e.llyl icyilijl\n\nleLr ftyl ;{l]\n\nNrhlx<h\n\nlezr dli\"lly; Vfldijhl\n\nf0\";|40\"(   200342004 d ct 6 ilo Ilfur   jlf'l 15 tuojl]   2004 a CiN d; ij ifrc 7\n\nfOrllX dl   ifii= deidAzzoocheiufolrupljo2oO2fnuid 26  Qjojll   ]2002 AA&O&&&\n\nInfrlir Kliu d ev ;e 1 jlT ; dh  folrl; TLFifr dl Irfyr Cul; J[lu d Ty; LFiib Tun '| Ilfjr id; X; 9 mld i'phr Hil ;g nEhl X;l 9 id   iolrl; 0\"| 0 Vire   eghul 6 vud foliixh }ljl tlncith 6 d; id;l thrh g rrhii ctl mi;lx dju dh nT\" VIO ' ;dri U glu ij Thl Ilexh d; dh tlrh g ftll 'hllu dl   jlr\"h Vulo ' ;d -| Vo - ) gl tirh 9 4 ;9 iid ;l Illu d fr 6 ugh 9 Vrl lldh; d; A Icl 6 Tutuiu llj fun\"h ilkfjr id; thr   gha doy\n\nAzdl 0\"h   2003&2004 0 ct 6 ilo ilfur   jlftl 15  tuojll   2004 0 Cin d; ij i.lrl ifrch   gixh ifrchh   futufyifhr enl 6 yIX ugh gixiila A;g\n\n/1 | dlnl;   {i=l; ;ituil  ion'll Igi;rh illr ifj ;ltul] UICIII iif\"lr ;ltul ,0 AIBP 0 Vrxr Iplfyr ifj;ltulvh d id;illo;u gr d; dll tku   Olyh IexI\n\n/2| fuel.| follkixhl   lyld iuel h   iollix] ty Ilu  folllx] LOILF ; ;lif=d| fOlliX 5 0 Xiel.l ;lif=d| Iokl Icf ir pky ifj ;ltuiVi 6 Hilllj dh TLFifr dl dju d mijhr ViXiel ni elgl 6 mi ;lx VIU Olyl lexh 7 yid Vidyu\n\njl;ijl inuld 15 tuojll   2004",
+      "confidence": 0.483,
+      "num_elements": 18,
+      "elements": [
+        {
+          "type": "heading",
+          "text": "Nrhlx<",
+          "page": 1,
+          "bbox": {
+            "x": 913.7,
+            "y": 2476.7,
+            "width": 190.0,
+            "height": 57.3
+          },
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "lllu",
+          "page": 1,
+          "bbox": {
+            "x": 1142.7,
+            "y": 2477.0,
+            "width": 100.0,
+            "height": 54.3
+          },
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "folr forilx",
+          "page": 1,
+          "bbox": {
+            "x": 946.7,
+            "y": 2402.7,
+            "width": 255.0,
+            "height": 57.3
+          },
+          "level": 1
+        },
+        {
+          "type": "heading",
+          "text": "Ilel=ky ;Il nIA dY;hzh flg Hioul   jl; ilj&4920010",
+          "page": 1,
+          "bbox": {
+            "x": 658.3,
+            "y": 2191.7,
+            "width": 841.7,
+            "height": 195.3
+          },
+          "level": 1
+        },
+        {
+          "type": "paragraph",
+          "text": "deld Q4302020040c410p|] 040 ifr",
+          "page": 1,
+          "bbox": {
+            "x": 311.0,
+            "y": 2052.7,
+            "width": 631.3,
+            "height": 118.7
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Ililu d lezr   iolllxl",
+          "page": 1,
+          "bbox": {
+            "x": 455.0,
+            "y": 1977.7,
+            "width": 406.0,
+            "height": 68.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "leLr folkixl/ ;{l]",
+          "page": 1,
+          "bbox": {
+            "x": 441.7,
+            "y": 1851.7,
+            "width": 316.3,
+            "height": 62.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "v/;{Il jktLo e.llyl icyilijl",
+          "page": 1,
+          "bbox": {
+            "x": 435.3,
+            "y": 1907.7,
+            "width": 570.0,
+            "height": 79.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "leLr ftyl ;{l]",
+          "page": 1,
+          "bbox": {
+            "x": 440.7,
+            "y": 1786.0,
+            "width": 287.0,
+            "height": 65.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Nrhlx<h",
+          "page": 1,
+          "bbox": {
+            "x": 439.7,
+            "y": 1668.3,
+            "width": 172.7,
+            "height": 54.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "lezr dli\"lly; Vfldijhl",
+          "page": 1,
+          "bbox": {
+            "x": 441.7,
+            "y": 1721.0,
+            "width": 438.3,
+            "height": 71.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "f0\";|40\"(   200342004 d ct 6 ilo Ilfur   jlf'l 15 tuojl]   2004 a CiN d; ij ifrc 7",
+          "page": 1,
+          "bbox": {
+            "x": 308.7,
+            "y": 1543.3,
+            "width": 1529.7,
+            "height": 116.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "fOrllX dl   ifii= deidAzzoocheiufolrupljo2oO2fnuid 26  Qjojll   ]2002 AA&O&&&",
+          "page": 1,
+          "bbox": {
+            "x": 513.7,
+            "y": 1412.0,
+            "width": 1281.0,
+            "height": 124.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Infrlir Kliu d ev ;e 1 jlT ; dh  folrl; TLFifr dl Irfyr Cul; J[lu d Ty; LFiib Tun '| Ilfjr id; X; 9 mld i'phr Hil ;g nEhl X;l 9 id   iolrl; 0\"| 0 Vire   eghul 6 vud foliixh }ljl tlncith 6 d; id;l thrh g rrhii ctl mi;lx dju dh nT\" VIO ' ;dri U glu ij Thl Ilexh d; dh tlrh g ftll 'hllu dl   jlr\"h Vulo ' ;d -| Vo - ) gl tirh 9 4 ;9 iid ;l Illu d fr 6 ugh 9 Vrl lldh; d; A Icl 6 Tutuiu llj fun\"h ilkfjr id; thr   gha doy",
+          "page": 1,
+          "bbox": {
+            "x": 306.0,
+            "y": 1020.3,
+            "width": 1536.3,
+            "height": 387.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Azdl 0\"h   2003&2004 0 ct 6 ilo ilfur   jlftl 15  tuojll   2004 0 Cin d; ij i.lrl ifrch   gixh ifrchh   futufyifhr enl 6 yIX ugh gixiila A;g",
+          "page": 1,
+          "bbox": {
+            "x": 306.3,
+            "y": 823.7,
+            "width": 1533.3,
+            "height": 137.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "/1 | dlnl;   {i=l; ;ituil  ion'll Igi;rh illr ifj ;ltul] UICIII iif\"lr ;ltul ,0 AIBP 0 Vrxr Iplfyr ifj;ltulvh d id;illo;u gr d; dll tku   Olyh IexI",
+          "page": 1,
+          "bbox": {
+            "x": 294.3,
+            "y": 585.7,
+            "width": 1483.0,
+            "height": 184.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "/2| fuel.| follkixhl   lyld iuel h   iollix] ty Ilu  folllx] LOILF ; ;lif=d| fOlliX 5 0 Xiel.l ;lif=d| Iokl Icf ir pky ifj ;ltuiVi 6 Hilllj dh TLFifr dl dju d mijhr ViXiel ni elgl 6 mi ;lx VIU Olyl lexh 7 yid Vidyu",
+          "page": 1,
+          "bbox": {
+            "x": 306.7,
+            "y": 311.7,
+            "width": 1532.7,
+            "height": 204.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "jl;ijl inuld 15 tuojll   2004",
+          "page": 1,
+          "bbox": {
+            "x": 1274.3,
+            "y": 2106.0,
+            "width": 544.0,
+            "height": 65.3
+          }
+        }
+      ],
+      "source": "sarvam"
+    },
+    {
+      "page_num": 2,
+      "text": "/3| tyil 'lildh ; ,0 jlT ; depljl Clel ;ltul Vlrxr py jg VLirkyl Trii fofrllu folkixh }ljl Iplfyr N=ioklk 0 ViJel e Hlitul dillll nolb;l dk d; Trili Vl; illfxd 0;;\n\n/4+|2 il\"k.l  Vigij rFili VixuCillh dlni 6 id ; th   jg Ell |llu dk d; iijogul ink ;\n\n/5| Vilofu ;l Tljinh   Xb n'hl efnjk dk d; 1\n\nillyl Iityl Olgul ejter Icflir d;\n\n/7| LItlujh ,0  Y[lu Iexh Icflr d; d -i;  5]000 rd d n;d \\_\n\n%8| -i; 5]000 rd Vl; VidfLed D; d n;d 4\n\n/9| fnuid 15 tuojh   2004 d i'phr folr   forlix d }ljl i\"Blidr dh X;l -oldlfrA\n\nढ़niila  bl Vin '| d Qyo 3i Tnuid 15 tuojh   2004 ply  iolrh; 0\" dh leiflr rd d; d fy; fOfrilu Lrjh ij N /-folrl ; ill;r;itu ifLrdl Fliix 1 ,0 2 e inir   'fDr;l Villdfer   jgxh 7\n\nढ़rhula ;9 ifrc Ililu d lotiud   nidelov} Illdh ; ILFlIVIOfudl ;iofo 'ofon;ly;l ij Fhh YIX  gixl 7\n\nmijlDr   iun \"ll 6 idlh Hhh idlj dl ThfFlfydj h doy folr  foriix dl vuefr id;l tl Idxi\n\nNhrilx< d JIT;ily A Uie rril Vin 'llullj\n\nIxiljo  f}onnlia ;Dr Iipo Nirilxू Illul folr  folriix",
+      "confidence": 0.484,
+      "num_elements": 12,
+      "elements": [
+        {
+          "type": "paragraph",
+          "text": "/3| tyil 'lildh ; ,0 jlT ; depljl Clel ;ltul Vlrxr py jg VLirkyl Trii fofrllu folkixh }ljl Iplfyr N=ioklk 0 ViJel e Hlitul dillll nolb;l dk d; Trili Vl; illfxd 0;;",
+          "page": 2,
+          "bbox": {
+            "x": 306.7,
+            "y": 2348.3,
+            "width": 1538.7,
+            "height": 190.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "/4+|2 il\"k.l  Vigij rFili VixuCillh dlni 6 id ; th   jg Ell |llu dk d; iijogul ink ;",
+          "page": 2,
+          "bbox": {
+            "x": 305.0,
+            "y": 2149.7,
+            "width": 1441.0,
+            "height": 134.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "/5| Vilofu ;l Tljinh   Xb n'hl efnjk dk d; 1",
+          "page": 2,
+          "bbox": {
+            "x": 294.0,
+            "y": 2026.0,
+            "width": 934.0,
+            "height": 69.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "illyl Iityl Olgul ejter Icflir d;",
+          "page": 2,
+          "bbox": {
+            "x": 418.7,
+            "y": 1891.3,
+            "width": 759.3,
+            "height": 69.7
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "/7| LItlujh ,0  Y[lu Iexh Icflr d; d -i;  5]000 rd d n;d _",
+          "page": 2,
+          "bbox": {
+            "x": 305.3,
+            "y": 1766.7,
+            "width": 1396.0,
+            "height": 68.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "%8| -i; 5]000 rd Vl; VidfLed D; d n;d 4",
+          "page": 2,
+          "bbox": {
+            "x": 304.7,
+            "y": 1645.0,
+            "width": 972.7,
+            "height": 62.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "/9| fnuid 15 tuojh   2004 d i'phr folr   forlix d }ljl i\"Blidr dh X;l -oldlfrA",
+          "page": 2,
+          "bbox": {
+            "x": 304.7,
+            "y": 1460.7,
+            "width": 1402.0,
+            "height": 116.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "ढ़niila  bl Vin '| d Qyo 3i Tnuid 15 tuojh   2004 ply  iolrh; 0\" dh leiflr rd d; d fy; fOfrilu Lrjh ij N /-folrl ; ill;r;itu ifLrdl Fliix 1 ,0 2 e inir   'fDr;l Villdfer   jgxh 7",
+          "page": 2,
+          "bbox": {
+            "x": 306.7,
+            "y": 1191.7,
+            "width": 1535.0,
+            "height": 199.7
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "ढ़rhula ;9 ifrc Ililu d lotiud   nidelov} Illdh ; ILFlIVIOfudl ;iofo 'ofon;ly;l ij Fhh YIX  gixl 7",
+          "page": 2,
+          "bbox": {
+            "x": 306.7,
+            "y": 1000.3,
+            "width": 1051.0,
+            "height": 139.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "mijlDr   iun \"ll 6 idlh Hhh idlj dl ThfFlfydj h doy folr  foriix dl vuefr id;l tl Idxi",
+          "page": 2,
+          "bbox": {
+            "x": 362.7,
+            "y": 879.0,
+            "width": 1483.0,
+            "height": 129.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Nhrilx< d JIT;ily A Uie rril Vin 'llullj",
+          "page": 2,
+          "bbox": {
+            "x": 1231.7,
+            "y": 622.0,
+            "width": 518.0,
+            "height": 192.3
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "Ixiljo  f}onnlia ;Dr Iipo Nirilxू Illul folr  folriix",
+          "page": 2,
+          "bbox": {
+            "x": 1302.3,
+            "y": 276.3,
+            "width": 510.7,
+            "height": 183.7
+          }
+        }
+      ],
+      "source": "sarvam"
+    },
+    {
+      "page_num": 3,
+      "text": "## ifrfyfila\n\n- jiT ;ily] Nirilxू A Iipol jlthioul jk;ij \\_\n- 3Iipol e[;e=ll e[;e=l lipoly ;\n- 2Iipol Nlrilxू follulHll Iipoly;l jl;ij 4\n- +-jftLiljl mp U;l;ky;l icyllijl |-X-\n- 6fut Ifpoufut Igk;dl e=lujiT;e=ll Nlrilx< Iilu\n- 5Iipol NxVl;lx]Nirilxू]  jl;ij yld\n- 7egkf hoDriomi   egif loDriiNhrilx< lfcyilij\n- 9e[; Ifpo d LIIA Vifaljl e=ly;l jl;ij /\n- 8egly [lidkjl Nhrilxs] jk;ij \\_\n- 10vij e[; Ifpo A LVIA Vifaljl e=ly;l jk;ij ^\n- 12VI;Drl tulid Iplyuky;l Nx  jk;ij\n- 11Vi;Drl di\"ll YIll ,0 i'lul Nx- jk;ij\n- 13voj Iipol lell ; i'lilu forllx y[lif Idijlle=iy ;ljk;ijA\n- jl;ijl dl Vij IpukFl 0 Vio ';d dk;okgh gr VXf\"lr 7\n- 14leLr I;Dr Ifpoomi Ifpouvoj Iipo ,0 leLr IITII iOlr forlix] e=|y;]\n- 15jlT ; Ipuk Villidijll jl\"ll; Ipul dlnkiNIlCh dl folr foliix dl oclkbl 6 viyill dju gr\n\nढ़foulin delj  ylyl voj Ifpo Nlrilx< Ilul iolr forilx",
+      "confidence": 0.538,
+      "num_elements": 18,
+      "elements": [
+        {
+          "type": "heading",
+          "text": "ifrfyfila",
+          "page": 3,
+          "bbox": {
+            "x": 312.7,
+            "y": 2346.0,
+            "width": 169.0,
+            "height": 62.0
+          },
+          "level": 1
+        },
+        {
+          "type": "list_item",
+          "text": "jiT ;ily] Nirilxू A Iipol jlthioul jk;ij _",
+          "page": 3,
+          "bbox": {
+            "x": 453.7,
+            "y": 2276.0,
+            "width": 840.7,
+            "height": 67.0
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "3Iipol e[;e=ll e[;e=l lipoly ;",
+          "page": 3,
+          "bbox": {
+            "x": 314.7,
+            "y": 2149.7,
+            "width": 757.0,
+            "height": 65.0
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "2Iipol Nlrilxू follulHll Iipoly;l jl;ij 4",
+          "page": 3,
+          "bbox": {
+            "x": 312.3,
+            "y": 2210.7,
+            "width": 965.0,
+            "height": 68.3
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "+-jftLiljl mp U;l;ky;l icyllijl |-X-",
+          "page": 3,
+          "bbox": {
+            "x": 314.7,
+            "y": 2084.7,
+            "width": 836.7,
+            "height": 68.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "6fut Ifpoufut Igk;dl e=lujiT;e=ll Nlrilx< Iilu",
+          "page": 3,
+          "bbox": {
+            "x": 314.7,
+            "y": 1894.7,
+            "width": 1100.0,
+            "height": 68.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "5Iipol NxVl;lx]Nirilxू]  jl;ij yld",
+          "page": 3,
+          "bbox": {
+            "x": 315.0,
+            "y": 1960.7,
+            "width": 549.7,
+            "height": 131.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "7egkf hoDriomi   egif loDriiNhrilx< lfcyilij",
+          "page": 3,
+          "bbox": {
+            "x": 312.3,
+            "y": 1829.0,
+            "width": 940.7,
+            "height": 74.0
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "9e[; Ifpo d LIIA Vifaljl e=ly;l jl;ij /",
+          "page": 3,
+          "bbox": {
+            "x": 310.0,
+            "y": 1700.0,
+            "width": 993.7,
+            "height": 80.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "8egly [lidkjl Nhrilxs] jk;ij _",
+          "page": 3,
+          "bbox": {
+            "x": 312.3,
+            "y": 1766.7,
+            "width": 694.7,
+            "height": 67.0
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "10vij e[; Ifpo A LVIA Vifaljl e=ly;l jk;ij ^",
+          "page": 3,
+          "bbox": {
+            "x": 311.0,
+            "y": 1637.0,
+            "width": 1105.7,
+            "height": 78.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "12VI;Drl tulid Iplyuky;l Nx  jk;ij",
+          "page": 3,
+          "bbox": {
+            "x": 311.0,
+            "y": 1509.3,
+            "width": 915.7,
+            "height": 69.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "11Vi;Drl di\"ll YIll ,0 i'lul Nx- jk;ij",
+          "page": 3,
+          "bbox": {
+            "x": 311.7,
+            "y": 1574.7,
+            "width": 923.7,
+            "height": 69.0
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "13voj Iipol lell ; i'lilu forllx y[lif Idijlle=iy ;ljk;ijA",
+          "page": 3,
+          "bbox": {
+            "x": 314.0,
+            "y": 1383.0,
+            "width": 767.7,
+            "height": 132.0
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "jl;ijl dl Vij IpukFl 0 Vio ';d dk;okgh gr VXf\"lr 7",
+          "page": 3,
+          "bbox": {
+            "x": 452.0,
+            "y": 1190.0,
+            "width": 1071.0,
+            "height": 69.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "14leLr I;Dr Ifpoomi Ifpouvoj Iipo ,0 leLr IITII iOlr forlix] e=|y;]",
+          "page": 3,
+          "bbox": {
+            "x": 314.0,
+            "y": 1257.7,
+            "width": 1522.7,
+            "height": 131.7
+          }
+        },
+        {
+          "type": "list_item",
+          "text": "15jlT ; Ipuk Villidijll jl\"ll; Ipul dlnkiNIlCh dl folr foliix dl oclkbl 6 viyill dju gr",
+          "page": 3,
+          "bbox": {
+            "x": 309.7,
+            "y": 1065.3,
+            "width": 1518.3,
+            "height": 135.0
+          }
+        },
+        {
+          "type": "paragraph",
+          "text": "ढ़foulin delj  ylyl voj Ifpo Nlrilx< Ilul iolr forilx",
+          "page": 3,
+          "bbox": {
+            "x": 1245.0,
+            "y": 752.0,
+            "width": 512.0,
+            "height": 192.3
+          }
+        }
+      ],
+      "source": "sarvam"
+    }
+  ],
+  "critical_fields": {
+    "dates": [],
+    "amounts": [],
+    "reference_numbers": []
+  },
+  "quality_flags": []
+}
