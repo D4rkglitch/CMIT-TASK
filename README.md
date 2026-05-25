@@ -208,44 +208,6 @@ Open the UI in a browser:
 http://localhost:3000
 ```
 
-Notes:
-- The Express server proxies `/api` to the Flask backend and serves the SPA from `05_webui/nodejs/public`.
-- The Express server starts Flask automatically when the backend port is not already in use.
-
----
-
-## Orchestrated runs
-
-You can use the top-level orchestrator to run Stages 01–04 in sequence:
-
-```bash
-python main_pipeline.py            # Runs stages 1,2,3,4 in order
-python main_pipeline.py --stages 1,2    # Run stages 1 and 2 only
-python main_pipeline.py --stage 3       # Run only stage 3
-```
-
-Use `-y` to skip prompts for automation / CI:
-
-```bash
-python main_pipeline.py -y
-```
-
----
-
-## Cleanup helper
-
-To review and optionally remove unused / backup files run:
-
-```bash
-python cleanup_unused.py --dry-run
-# If satisfied:
-python cleanup_unused.py --cleanup
-```
-
-The script lists files flagged as safe-to-delete and files that need manual review.
-
----
-
 ## Tips for production
 
 - Use `.env` for secrets, never commit secrets to the repo.
@@ -255,32 +217,3 @@ The script lists files flagged as safe-to-delete and files that need manual revi
 - For the web UI, use a process manager (pm2/systemd) to run the Node server and the Flask app.
 
 ---
-
-## Troubleshooting
-
-- If a stage fails, check logs in `logs/` and the per-stage output directories.
-- On dependency issues, re-create the virtual environment and re-install:
-
-```bash
-rm -rf .venv
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-- If Node server cannot reach Flask backend, verify `FLASK_URL` and that Flask is listening on the configured port.
-
----
-
-## Where to look next
-
-- Orchestration and longer guide: `ORCHESTRATION_GUIDE.md`
-- Centralized logging config: `utils/logging_config.py`
-- Docling chunker implementation: `03_chunking/docling_chunker.py`
-
----
-
-If you want, I can also:
-- Convert this file to `README.md` at repo root and update links
-- Add examples for Docker/Compose
-- Generate minimal `package.json` for the Node UI if missing
