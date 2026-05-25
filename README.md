@@ -22,3 +22,5 @@ Stage 05 — Web UI
 -Auth Username: `admin`
 -Auth Password: `StrongPass123`
 
+Extra:
+-add your own sarvam api key to .env file to use sarvam LLM in web ui. 
